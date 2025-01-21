@@ -27,14 +27,21 @@ Elle est remplacée par Lionel Lemarchand
 
 
 - **Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE.**
+  ![Q1 1 4](https://github.com/user-attachments/assets/54f4a0fa-47a4-4b2d-a251-6c464fe00694)
+
 
 #### Partie 2 : Restriction utilisateurs
 
 - Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
+  ![Q1 2 1](https://github.com/user-attachments/assets/0014f6db-3c89-41e3-9860-cbacf6799e96)
+
 
 - Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
+  ![Q1 2 2](https://github.com/user-attachments/assets/df748ae9-366d-414d-a3cd-ec91cd9daff9)
+
 
 - Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+  
 
 #### Partie 3 : Lecteurs réseaux
 
